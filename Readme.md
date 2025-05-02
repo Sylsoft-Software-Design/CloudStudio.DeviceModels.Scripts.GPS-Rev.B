@@ -1,11 +1,11 @@
 
-# Parsing + Configuration Script – GPS - Rev. B
+# Configuration Script – GPS - Rev. B
 
-This **Parsing + Configuration** script is designed for the **GPS** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Configuration** script is designed for the **GPS** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing + Configuration
+- **Type**: Configuration
 
 ## ⚙️ Description
 
@@ -27,13 +27,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing + Configuration – GPS Rev. B
+# Script de Configuration – GPS Rev. B
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **GPS** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Configuration** está diseñado para el modelo **GPS** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing + Configuration
+- **Tipo**: Configuration
 
 ## ⚙️ Descripción
 
